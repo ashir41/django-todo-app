@@ -16,7 +16,7 @@ This application helps users manage daily tasks efficiently and keeps track of t
    git clone https://github.com/ashir41/django-todo-app.git
    cd django-todo-app
 ## Live Link of the app
-Live Application: [https://django-todo-app.onrender.com](https://django-todo-app.onrender.com)
+Live Application: [https://django-todo-app.onrender.com](https://django-todo-app-prc2.onrender.com/)
 
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
