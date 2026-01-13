@@ -1,4 +1,23 @@
-# Django Todo App
+# Django Todo Application
+
+## Description
+This is a simple Todo application built with Django. It allows users to:
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- View all tasks
+
+This application helps users manage daily tasks efficiently and keeps track of to-dos in an organized way.
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ashir41/django-todo-app.git
+   cd django-todo-app
+## Live Link of the app
+Live Application: [https://django-todo-app.onrender.com](https://django-todo-app.onrender.com)
+
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
 
